@@ -1,0 +1,16 @@
+sqlglot == 11.5.7
+sqlfluff
+
+# For linting
+mypy
+pylint
+
+# For file auto formatting
+yapf
+
+# For testing
+coverage
+pytest
+
+# For Cli
+fire
